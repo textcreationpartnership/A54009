@@ -1,0 +1,132 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from a citizen of Oxford, to a citizen of London concerning the dissolution of the Parliament.</title>
+            <author>T. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54009</idno>
+            <idno type="STC">Wing P114</idno>
+            <idno type="STC">ESTC R40053</idno>
+            <idno type="EEBO-CITATION">18674583</idno>
+            <idno type="OCLC">ocm 18674583</idno>
+            <idno type="VID">108147</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54009)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 108147)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1658:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from a citizen of Oxford, to a citizen of London concerning the dissolution of the Parliament.</title>
+                  <author>T. P.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1681]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed at end: T.P.</note>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:108147:1" rendition="simple:additions"/>
+            <head>A LETTER FROM A Citizen of Oxford, TO A Citizen of London, Concerning the DISSOLUTION OF THE PARLIAMENT.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOurs I receiv'd of the 18th. Inſtant, with an account of the Com<g ref="char:EOLhyphen"/>mon-Councels Proceedings, as likewiſe the Proclamation for the Diſſolution of the Parliament, and the Calling of another to meet on the 21. of <hi>March</hi> next; and in compliance to your deſire, I ſhall en<g ref="char:EOLhyphen"/>deavour to acquaint you with our Surprize, and the ſence we have of thoſe Tranſactions here, with as much brevity, clearneſs and impartiality as the little experience I have in Affairs will permit.</p>
+            <p>As for the calling a Common-Councel, it is every one's wiſh here that the worthy Citizens of <hi>London</hi> had not been ſo Spirited with Zeal, or rather hurried on with Jealouſies, that would not give them leave to ſee the time expired, that was appointed by His Majeſty for the meeting again of the Parliament, but by a too forward Petition, would ſeem to impoſe upon, and diſtruſt his Royal Conduct and Care; and by that, and other courſes, have more Exaſperated, then Compoſed matters, and ra<g ref="char:EOLhyphen"/>ther procured their being Diſſolved, then their Meeting again. Shall I deal plainly with you, and tell you my Opinion? I think it would be<g ref="char:EOLhyphen"/>come us Citizens much better to mind our Trades, and our Shops, then
+<pb n="2" facs="tcp:108147:2" rendition="simple:additions"/>to meddle with State-affairs: For no doubt thoſe at the Helm know better what to do, then we can tell them, as being the moſt Experienced, having the beſt Proſpect, and are the moſt concerned in an even and ſteady managing of Affairs. You daily acquaint me with the Fears you are in of Arbitrary Government, and yet I cannot ſee what Reaſons and Grounds you have for them: Does not the King let the law have its full ſcope? has he deprived any of his Subjects of their Priviledges? has he put the leaſt Curb upon, or failed to do Juſtice to any one? has he raiſed Money without the conſent Af his Parliament? I do not hear of the leaſt of this has been done, and therefore I cannot imagine upon what bottom you build your Jealouſies and Suſpicions of Arbitrary Power. Certainly never any Nation had ſo Good, ſo Gracious, ſo Merciful a Prince; he ought to be the Joy and Delight of his People, as he is the Admiration and Wonder of the reſt of the World. Has not his Mercy extended to the very worſt of his Enemies? and have not his greateſt Perſecutors ob<g ref="char:EOLhyphen"/>tained their Pardons, and enjoyed his Protection and Care, as if they had ever been his greateſt Friends? All this has been done, and can we diſtruſt ſuch a Prince? I muſt tell you, I fear theſe courſes will provoke and draw upon us Gods Anger and Judgment.</p>
+            <p>As for Occurrences here, our Preparations are very great, as well as Expectations, for the me<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting of the King and his Parliament, which we hope will compoſe all our Differences, and heal our Diviſions; at leaſt we ſhall not be found guilty of meddling with things out of our Pro<g ref="char:EOLhyphen"/>vince, nor by any too haſty Motions, give occaſion for further Miſchiefs and Breaches, though perhaps we might brag and value our ſelves as high for our Zeal, and good intentions for the Publick Cauſe, as any others of our Fellow-Subjects: yet as in Religion one of the greateſt Virtues is a perfect Reſignation and Submiſſion to all that Divine Provi<g ref="char:EOLhyphen"/>dence ſhall be pleaſed to order, ſo we are apt to think the ſame of our Governours in this World: Therefore it is only our parts to chooſe for our Repreſentatives ſuch Perſons as are beſt acquainted with the true Intereſt of the King and his People; ſuch as are apter to Compoſe, then raiſe Diſputes, and are true Members of the Church of <hi>England;</hi> and then leave all the reſt to His Majeſty, and Them, and think of nothing but of putting in Execution what they ſhall think fit to Ordain and Or<g ref="char:EOLhyphen"/>der; which we hope and look upon as the beſt means for the maintain<g ref="char:EOLhyphen"/>ing the <hi>Proteſtant Religion,</hi> and the Honour and Intereſt of the King and the Nation, and which will moſt contribute towards the Reconciling of all Differences, and the Uniting us amongſt our ſelves: which ſhall be the daily prayer of,</p>
+            <closer>
+               <signed>Your affectionate Friend and Servant, <hi>T. P.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
